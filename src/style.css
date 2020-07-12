@@ -1,0 +1,31 @@
+.button {
+    -fx-background-color:#4643ce;
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-padding: 10 10 10 10;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+}
+#menu1{
+    -fx-padding: 10;
+    -fx-background-color:#a2a0e4;
+  
+}
+#menu2{
+    -fx-padding: 10;
+    -fx-background-color:#a2a0e4;
+}
+#menu3{
+    -fx-padding: 10;
+    -fx-background-color:#a8e4a0;
+}
+#root{
+    
+    -fx-background-color:yellowgreen;
+}
+#area{
+    -fx-background-color:red;
+}
+drawingArea{
+    -fx-background-color:red;
+}
